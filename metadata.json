@@ -1,0 +1,6 @@
+{
+  "name": "Configuratore 3D Struttura Architettonica",
+  "description": "Configuratore 3D interattivo per eventi: area allargata a 12x12m (+1m/lato), 4 torri a lattina alte 5m agli angoli, station bar sui 4 lati (8x0.8m H 1.10m), scale protette dietro le station e 3 container (6x7.5m) con terrazza e parapetti in ferro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
